@@ -1,5 +1,5 @@
-# this is a converter from cesius to fahrenheit and back
-# Made mainly to learn how to parse strings from command line
+# 
+# Made mainly to learn to code and remember how to parse strings from command line
 import sys
 import getopt
 import argparse
